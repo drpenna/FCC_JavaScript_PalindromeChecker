@@ -7,7 +7,7 @@ required project for the [**freeCodeCamp's JavaScript Algorithms and Data Struct
 - [How to use the Palindrome Checker in a Website](#how-to-use-the-palindrome-checker-in-a-website)
 - [Project Tasks Summary](#project-tasks-summary)
 - [Files](#files)
-- [Project tasks](#project-tasks)
+- [Project tests](#project-tests)
 
 ## What is a palindrome
 A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
