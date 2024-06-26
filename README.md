@@ -1,6 +1,6 @@
 # FCC_JavaScript_PalindromeChecker
-This is my solution for the [**Build a Palindrome Checker**](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-a-palindrome-checker-project/build-a-palindrome-checker))
-required project for the [**freeCodeCamp's JavaScript Algorithms and Data Structures (Beta)**](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) using JavaScript, HTML, and CSS. <br />
+This is my solution for the [**Build a Palindrome Checker**](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-a-palindrome-checker-project/build-a-palindrome-checker)
+required project for the [**freeCodeCamp's JavaScript Algorithms and Data Structures (Beta)**](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) certification using JavaScript, HTML, and CSS. <br />
 
 ## Contents
 - [What is a palindrome](#what-is-a-palindrome)
@@ -16,7 +16,7 @@ A palindrome is a word or sentence that's spelled the same way both forward and 
 
 ## How to use the Palindrome Checker in a website
 - Click on the text box (where the placeholder text "Write here!" can be found) and type the word or sentence you want to check.
-- Click on the "Check" button. Right below it, will appear the text "[Your word or sentence] is a palindrome" or "[Your word or sentence] is not a palindrome".
+- Click on the "Check" button. Right below it, the text "[Your word or sentence] is a palindrome" or "[Your word or sentence] is not a palindrome" will appear.
 - To clear the text in the text box, you can click on the "Reset" button.
 
 [<sub>Back to top</sub>](#top)
